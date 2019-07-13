@@ -1,0 +1,5 @@
+package Register
+
+func RunSlave()  {
+
+}
